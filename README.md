@@ -1,4 +1,8 @@
-# ![Voodoo Icon](favicon.png) Voodoo GUI
+<h1 align="center">
+  <img src="favicon.png" alt="Voodoo Icon" width="100" />
+  <br>
+
+</h1>
 # Voodoo GUI
 
 Voodoo GUI is a simple Python library to create user interfaces like Streamlit but with an intuitive and simpler syntax.
