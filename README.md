@@ -112,3 +112,4 @@ if __name__ == "__main__":
         page.Setup(title="System Voodoo Hospital")
     
     Gui(page).run(debug=True)
+```
