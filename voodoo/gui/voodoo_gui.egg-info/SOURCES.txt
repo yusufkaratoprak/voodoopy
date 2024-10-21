@@ -1,0 +1,7 @@
+README.md
+setup.py
+voodoo_gui.egg-info/PKG-INFO
+voodoo_gui.egg-info/SOURCES.txt
+voodoo_gui.egg-info/dependency_links.txt
+voodoo_gui.egg-info/requires.txt
+voodoo_gui.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Flask
+flask_cors
+setuptools
+requests
+fastapi 
+uvicorn
