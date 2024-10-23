@@ -109,5 +109,8 @@ if __name__ == "__main__":
     
     Gui(page).run(debug=True)
 ```
+<<<<<<< HEAD
 
 ![Output](sample.png)
+=======
+>>>>>>> 4352968ef19ad3499d5ad4e00fed8a3e9ab1095b
