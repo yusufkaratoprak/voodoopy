@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="favicon.png" alt="Voodoo Icon" width="100" />
-  <br>
 
-</h1>
 # Voodoo GUI
 
 Voodoo GUI is a simple Python library to create user interfaces like Streamlit but with an intuitive and simpler syntax.
@@ -112,3 +108,6 @@ if __name__ == "__main__":
         page.Setup(title="System Voodoo Hospital")
     
     Gui(page).run(debug=True)
+```
+
+![Output](sample.png)
